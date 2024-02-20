@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal Khalid</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalkhaalid&label=Profile%20views&color=0e75b6&style=flat" alt="bilalkhaalid" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://bilalkhalid.vercel.app/](https://bilalkhalid.vercel.app/)
 
 - 💬 Ask me about **MongoDb,Express.js,React.js,Node.js**
@@ -19,7 +17,3 @@
 
 <h3 align="left">Support:</h3>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalkhaalid&show_icons=true&locale=en&layout=compact" alt="bilalkhaalid" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalkhaalid&show_icons=true&locale=en" alt="bilalkhaalid" /></p>
